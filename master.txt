@@ -1,1 +1,3 @@
-This is my first repo with git
+This is my first repo with git.
+
+Making some changes to it!
